@@ -11,15 +11,15 @@
 	<key>fonts</key>
 	<array>
 		<string>Quicksand-Regular</string>
+		<string>ShinMGoPro-Light</string>
 		<string>Quicksand-Light</string>
+		<string>ShinMGoPro-Regular</string>
 		<string>HiraKakuProN-W3</string>
 		<string>Ricty-Regular</string>
-		<string>ShinMGoPro-Light</string>
-		<string>ShinMGoPro-Regular</string>
 		<string>QuicksandDash-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>9687974</integer>
+	<integer>15493039</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>

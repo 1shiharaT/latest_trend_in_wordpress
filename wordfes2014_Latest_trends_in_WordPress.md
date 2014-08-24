@@ -74,5 +74,6 @@ WordFes 2014 - WordPress の最新動向
   * JSON REST API のデモ
 
 * WP Metadata API
+* Editor Experience
 
 * GSoC Menu Customizerなど、テーマカスタマイザーが活発化
