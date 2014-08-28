@@ -25,7 +25,7 @@ WordFes 2014 - WordPress の最新動向
 # What happened 3.9 & 4.0
 
 ## 3.9 で変化した点
-
+!["http://i.gyazo.com/5bcd32b30e93b920f7078b5987409271.gif](http://i.gyazo.com/5bcd32b30e93b920f7078b5987409271.gif)
 * ビジュアルエディターの改善
 	* TinyMCE のアップデート
   * 写真をドラッグ&ドロップ
@@ -77,3 +77,10 @@ WordFes 2014 - WordPress の最新動向
 * Editor Experience
 
 * GSoC Menu Customizerなど、テーマカスタマイザーが活発化
+
+# まとめ
+
+1. WordPress の開発情報は公開されています。
+2. 今までのアップデートで、目に見えない部分も多く改善・追加されています。
+3. WordPress は進化を続けています。
+4. ご静聴ありがとうございました。

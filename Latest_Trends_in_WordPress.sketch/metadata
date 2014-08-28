@@ -14,14 +14,15 @@
 		<string>HiraKakuProN-W3</string>
 		<string>ShinGoPro-ExLight</string>
 		<string>Quicksand-Light</string>
-		<string>ShinMGoPro-Light</string>
-		<string>ShinMGoPro-Regular</string>
 		<string>Ricty-Regular</string>
+		<string>ShinMGoPro-Light</string>
+		<string>ShinGoPro-DeBold</string>
 		<string>ShinGoPro-Regular</string>
 		<string>QuicksandDash-Regular</string>
+		<string>ShinMGoPro-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>25982511</integer>
+	<integer>29795273</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
